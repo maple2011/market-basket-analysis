@@ -9,8 +9,8 @@ Unsupervised machine learning provides a solution to identify the items that ten
 
 
 # Python code (from Jupyter Notebook)
-import numpy as np \n
-import pandas as pd \n
+import numpy as np 
+import pandas as pd 
 import sklearn as skl
 from sklearn.decomposition import PCA
 from sklearn.datasets import make_classification
